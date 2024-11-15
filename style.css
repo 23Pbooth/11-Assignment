@@ -1,0 +1,14 @@
+.bg-primary{
+    background-color: green !important;
+}
+.text-primary{
+    color: green !important;
+}
+
+.banner {
+    background-image: url(../images/banner.jpb.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    overflow: hidden;
+}
